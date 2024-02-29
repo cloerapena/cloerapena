@@ -19,7 +19,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 
 - ✊: In my free time, I enjoy reading, trying new foods, and doing community organizing!
 
-- :mailbox:How to reach me: cloerapena801@gmail.com
+- :mailbox: How to reach me: cloerapena801@gmail.com
 - <div id="badges">
   <a href="https://www.linkedin.com/in/cloerapena/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
