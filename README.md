@@ -13,11 +13,11 @@
 --- 
 
 I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Utah.
-- :bowtie:: Check out my CSGO visualization website https://cloerapena.github.io
+- :bowtie:: Check out my personal website https://cloerapena.github.io
 
-- 🌱: Exploring mobile app development and web development
+- 🌱: Currently exploring mobile app development and web development
 
-- ✊: In my free time, I enjoy reading, trying new foods, and doing community organizing!
+- ✊: In my free time, I enjoy reading, trying new foods, and community organizing!
 
 - :mailbox: How to reach me: cloerapena801@gmail.com
 - <div id="badges">
