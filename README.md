@@ -1,5 +1,5 @@
 <h1>
-  What's up!
+  Yo! What's up!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -12,7 +12,7 @@
 ### 🇲🇽 🇸🇻 About Me :
 --- 
 
-Hey what's up! I'm a software development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Utah.
+I'm a software development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Utah.
 - :bowtie:: Check out my personal website <a href="https://cloerapena.github.io" target="_blank">https://cloerapena.github.io</a>
 
 - 🌱: Currently exploring mobile app development and web development
